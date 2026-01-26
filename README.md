@@ -4,3 +4,8 @@ the code that i created outputs text to the console and it consists of a single 
 
 <img width="1336" height="647" alt="image" src="https://github.com/user-attachments/assets/1847c363-613e-4d23-b3d4-b91b1f17a4c9" />
 <img width="915" height="155" alt="image" src="https://github.com/user-attachments/assets/e28039e1-2023-41f0-a801-7e97f425f0eb" />
+i developed this program so that a user can enter their name and then receive a greeting in the console and i used the scanner class to read input from the keyboard and store the users name in a string variable. During making the code i encountered some sytax errors such as using hashtag for comments and case senstivity whern using System.out statement which were shown through testing. After i fixed these issues the program worked correctly and i used the input name youshush to confirm that the greeting displayed correctly.
+
+<img width="1259" height="805" alt="image" src="https://github.com/user-attachments/assets/466e2ead-c263-442c-b5f2-7b89c1278a79" />
+<img width="797" height="259" alt="image" src="https://github.com/user-attachments/assets/83bfdb66-62ab-47fd-ac53-26bc519ce7ab" />
+I made this program to calculate the area and perimeter of a rectangle and display it based on what the user inputed. I used the scanner class to allow the user to enter the detials for the rectangle which was stored as a double so it would allow for decimal values. I enountered sytax errors such as missing brackers in the main metrhod and i forgot to add import for the scanner class which prevented it from working. I then fixed these and it successfully displayed the correct area and perimeter.
